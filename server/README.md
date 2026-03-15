@@ -172,7 +172,7 @@ nano agent/.env
 Ejemplo:
 
 ```
-SERVER_URL=http://192.168.0.136:3000
+SERVER_URL=http://111.111.1.111:3000
 DEVICE_NAME=celular2
 ```
 
