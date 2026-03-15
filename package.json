@@ -1,0 +1,24 @@
+{
+  "name": "picolas-control",
+  "version": "1.0.0",
+  "description": "Panel para controlar celulares con Termux",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "node server/index.js",
+    "agent": "node agent/agent.js"
+  },
+  "keywords": [
+    "termux",
+    "remote-control",
+    "picolas"
+  ],
+  "author": "Picolas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3"
+  }
+}
