@@ -119,13 +119,13 @@ ip a
 Buscar algo como:
 
 ```
-192.168.0.136
+111.111.1.111
 ```
 
 Panel accesible desde la red:
 
 ```
-http://192.168.0.136:3000
+http://111.111.1.111:3000
 ```
 
 ---
@@ -205,7 +205,7 @@ http://IP_DEL_SERVER:3000
 Ejemplo:
 
 ```
-http://192.168.0.136:3000
+http://111.111.1.111:3000
 ```
 
 Desde ahí podrás ejecutar comandos en los celulares conectados.
